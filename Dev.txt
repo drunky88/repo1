@@ -1,3 +1,4 @@
 New develop code here
-
+Hello conflicts resolved
 This is branch develop
+This is branch dev1
